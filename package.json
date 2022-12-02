@@ -2,7 +2,7 @@
   "name": "react-stencil",
   "homepage": "https://happyfrog612.github.io/development",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
