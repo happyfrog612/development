@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://happyfrog612.github.io/development`
+If you used the stencil code, this is `https://happyfrog612.github.io/`
 
 ### Goal and Value of the Application
 The goal of this application was to create a simple music instrument shop where the users
