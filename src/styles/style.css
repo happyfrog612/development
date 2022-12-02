@@ -1,0 +1,85 @@
+.instruments {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #444c57;
+    padding-bottom: 1em;
+}
+.instruments div {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    transition: .5s;
+    color: white;
+}
+
+.instruments div:hover {
+    background-color: lightcoral;
+    border-radius: 30px;
+}
+
+.instruments img {
+    height: 200px;
+    width: 200px;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    border-radius: 8px;
+}
+
+.instruments button {
+    margin-bottom: 1em;
+    border-radius: 8px;
+    display: inline-block;
+    border-width: 0px;
+    padding: 1em;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.instruments button:hover {
+    background-color: #444c57;
+    color: white;
+}
+
+.criteria {
+    background-color: white;
+    border-radius: 8px;
+    width:max-content;
+    justify-content: center;
+    margin-left: 35%;
+    padding: 4px;
+}
+
+body {
+    background-color: #444c57;
+}
+
+h1 {
+    color: white;
+}
+h2{
+    color: #444c57;
+}
+.cart {
+    color: white;
+}
+
+#filtering button {
+    margin-bottom: 1em;
+    border-radius: 8px;
+    display: inline-block;
+    border-width: 0px;
+    padding: 1em;
+    cursor: pointer;
+    transition: .3s;
+    color: white;
+    background-color: #444c57;
+}
+
+.miscName {
+    margin-top: -3px;
+}
+
+.cartName {
+    color: white;
+}
